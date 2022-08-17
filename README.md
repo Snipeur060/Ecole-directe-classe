@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CLASSE ECOLE DIRECTE</h1>
 
-<p id="description">Se script vous permet d'obtenir votre classe s'il elle est disponible sur le site (de manière caché)</p>
+<p id="description">Ce script vous permet d'obtenir votre classe s'il elle est disponible sur le site (de manière caché)</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&amp;logo=python&amp;logoColor=cyan" alt="shields"><img src="https://img.shields.io/badge/Json-323330?style=for-the-badge&amp;logo=json&amp;logoColor=green" alt="shields"></p>
 
