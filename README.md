@@ -2,6 +2,7 @@
 
 <p id="description">Ce script vous permet d'obtenir votre classe s'il elle est disponible sur le site (de manière caché)</p>
 
+
 <p align="center"><img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&amp;logo=python&amp;logoColor=cyan" alt="shields"><img src="https://img.shields.io/badge/Json-323330?style=for-the-badge&amp;logo=json&amp;logoColor=green" alt="shields"></p>
 
 <h2>🛠️ Étapes d'installation :</h2>
