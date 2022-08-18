@@ -1,6 +1,6 @@
 import classes.color as colormodule
 import requests
-
+from func.smooth_stop import smoothstop
 def url_checker(url):
 	try:
 		get = requests.get(url)
