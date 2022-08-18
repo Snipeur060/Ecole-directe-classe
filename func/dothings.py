@@ -1,2 +1,2 @@
-def dothings():
-  print("hello")
+def dothings(things):
+  print("hello",things)
