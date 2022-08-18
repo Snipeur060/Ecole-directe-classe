@@ -1,4 +1,4 @@
-
+#Cette classe nous permet de définir les couleurs
 class colorsconsole:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
