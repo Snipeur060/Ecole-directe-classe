@@ -9,5 +9,6 @@ from func.ecole import *
 os.system("")
 
 if __name__ == '__main__':
+	#start main function
 	result = url_checker("https://api.ecoledirecte.com")
 	request_id()		
