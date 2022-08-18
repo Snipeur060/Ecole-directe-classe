@@ -2,6 +2,8 @@ import classes.color as colormodule
 import http.client
 import json
 from func.smooth_stop import smoothstop
+# FIN IMPORT 
+
 def request_id():
 	msg1 = colormodule.colorsconsole.CBLUE2+"Veuillez entrer votre nom d'utilisateur École Directe: "+colormodule.colorsconsole.ENDC
 	username = str(input(msg1))
