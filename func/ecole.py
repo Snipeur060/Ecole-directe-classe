@@ -2,13 +2,14 @@ import classes.color as colormodule
 import http.client
 import json
 from func.smooth_stop import smoothstop
+import maskpass
 # FIN IMPORT 
 
 def request_id():
 	msg1 = colormodule.colorsconsole.CBLUE2+"Veuillez entrer votre nom d'utilisateur École Directe: "+colormodule.colorsconsole.ENDC
 	username = str(input(msg1))
 	msg2 = colormodule.colorsconsole.OKCYAN+"Veuillez entrer votre mot de passe École Directe: "+colormodule.colorsconsole.ENDC
-	password = str(input(msg2))
+	password = str(maskpass.askpass(msg2))
 	res = traitement(username,password)
 	jsondata(res)
 	
