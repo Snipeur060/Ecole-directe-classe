@@ -34,5 +34,5 @@ Press the file main.py
 
 This project is licensed under the Apache License 2.0
 <br>
-<p>Exemple du resultat:</p>
+<h2>👾 Exemple du resultat:</h2>
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/61784407/188219958-a34f9687-d6ee-47ca-959a-c510681132e0.png">
